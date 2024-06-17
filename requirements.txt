@@ -1,0 +1,11 @@
+pandas
+matplotlib
+folium
+ipython
+tabulate
+seaborn
+scikit-learn
+python-dotenv
+streamlit
+statsmodels
+streamlit-tags

@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+matplotlib = "*"
+folium = "*"
+ipython = "*"
+tabulate = "*"
+seaborn = "*"
+scikit-learn = "*"
+python-dotenv = "*"
+dash = "*"
+streamlit = "*"
+pip = "*"
+install = "*"
+statsmodels = "*"
+streamlit-tags = "*"
+
+[dev-packages]
