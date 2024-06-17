@@ -10,3 +10,5 @@ streamlit
 statsmodels
 streamlit-tags
 plotly
+pip
+install

@@ -17,5 +17,6 @@ pip = "*"
 install = "*"
 statsmodels = "*"
 streamlit-tags = "*"
+plotly = "*"
 
 [dev-packages]
