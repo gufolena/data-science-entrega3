@@ -6,7 +6,7 @@ from streamlit_tags import st_tags
 # Carregar os dados
 df = pd.read_csv('vacinas_2022.csv')
 
-st.title("Dashboard de Vacinação COVID-19 Pernambuco 2022")
+st.title("Dashboard de Vacinação COVID-19 Recife 2022")
 
 # Selecionar o tipo de gráfico
 option = st.selectbox(

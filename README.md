@@ -57,4 +57,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 
 # Tempo de execução
 O arquivo analise_pessoas_vacindas_2022.py executa em 30 segundos
+
 O arquivo app.py executa entre 10 - 13 segundos
