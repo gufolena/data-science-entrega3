@@ -9,3 +9,4 @@ python-dotenv
 streamlit
 statsmodels
 streamlit-tags
+plotly
